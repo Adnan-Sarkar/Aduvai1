@@ -4,7 +4,7 @@
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 
 
-<p align="center">I'm a junior front-end developer.<br/>I specialize in MERN Stack(React, Mongodb, Express, Node).<br> I also try to develop my skills for the next level day by day.<br></p><br/>
+<p align="center">I'm a junior front-end developer.<br/>I specialize in MERN Stack(React, Mongodb, Express, Node).<br> I also try to develop my skills to the next level day by day.<br></p><br/>
 
 <summary><h2>🧐 What I currently do</h2></summary>
 
