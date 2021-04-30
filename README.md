@@ -28,7 +28,7 @@
 </p>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
-                width="28" /> My Github Stats & Most uses Language</h2> </summary>
+                width="28" /> My Github Stats & Most Used Language</h2> </summary>
 
 <br>
 
